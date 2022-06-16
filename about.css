@@ -1,0 +1,230 @@
+body{
+    background-color:#ffcc00 ;
+}
+
+div.page{
+    background-color:#336688;
+    padding:100px;
+    padding-top:10px;
+    padding-bottom:100px;
+    padding-left: 800px;
+    border:200px;
+    border-left: 100px;
+    border-right: 100px;
+    border-top: 100px;
+    margin: 0;
+}
+
+.logo{
+    position: relative;
+    left:10px;
+    bottom:90px;
+    padding:0;
+    border:auto;
+    margin: 0 auto;
+}
+
+
+
+.home{
+    position: relative;
+    bottom: 150px;
+    left: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:24px;
+    font-weight:bold;
+    color: white;
+    padding:auto;
+    border: auto;
+    margin: auto;
+}
+.home:hover{
+    color:#336688;
+    background-color:#ffcc00;
+}
+
+.about{
+    position: relative;
+    bottom: 150px;
+    left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:24px;
+    font-weight:bold;
+    color: white;
+    padding:auto;
+    border: auto;
+    margin: auto;
+}
+.about:hover{
+    color:#336688;
+    background-color:#ffcc00;
+}
+
+.contact{
+    position: relative;
+    bottom: 150px;
+    left: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:24px;
+    font-weight:bold;
+    color: white;
+    padding:auto;
+    border: auto;
+    margin: auto;
+}
+.contact:hover{
+    color:#336688;
+    background-color:#ffcc00;
+}
+
+.name{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:70;
+    position: relative;
+    left: 1100px;
+    bottom:230px;
+    color: #ff9900;
+    padding:auto;
+    border: auto;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+.ori{
+    position: relative;
+    bottom:200px;
+    padding:0px;
+    border:0px ;
+    margin: 0px;
+    font-size:20px;
+    background-color:black;
+    color:white;
+}
+
+.image2{
+    position: relative;
+    bottom:170px;
+    left: 10px;
+    bottom:200px;
+    padding:0px;
+    border:0px;
+}
+
+.j1{
+    position: relative;
+    bottom:100px;
+}
+
+
+.footer{
+    background-color:#333333;
+    padding-top:100px;
+    padding-bottom: 90px;
+    padding-left:100px;
+    padding-right: 100px;
+    border: 0px;
+    margin: auto;
+}
+
+.about1{
+    color: white;
+    position: relative;
+    bottom: 80px;
+    left: 500px;
+    font-weight: bold;
+    font-size: 28px;
+}
+.about1:hover{
+    color:#ff9900;
+    background-color:#336688 ;
+    border-radius: 40px;
+}
+
+.call{
+    color: white;
+    position: relative;
+    bottom: 20px;
+    left: 300px;
+    font-weight: bold;
+    font-size: 28px;
+}
+.call:hover{
+    color:#ff9900;
+    background-color:#336688 ;
+    border-radius: 40px;
+}
+
+.tips{
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 170px;
+    font-weight: bold;
+    font-size: 28px;
+}
+.tips:hover{
+    color:#ff9900;
+    background-color:#336688 ;
+    border-radius: 40px;
+}
+
+
+.candt{
+    padding:0;
+    border: 0px;
+    margin: auto;
+}
+.term{
+    color: #ff9900;
+    position: relative;
+    bottom: 80px;
+    left: 50px;
+    font-weight: bold;
+}
+.term:hover{
+    color:white;
+}
+
+.copy{
+    color: #ff9900;
+    position: relative;
+    bottom: 50px;
+    right: 90px;
+    font-weight: bold;
+}
+.copy:hover{
+    color:white;
+}
+
+.card{
+    padding:0;
+    border: 0px;
+    margin: auto;
+}
+
+.mas{
+    position: relative;
+    left: 1000px;
+    bottom: 150px;
+}
+.proud{
+    position: relative;
+    left:1000px;
+    bottom:300px;
+    color: white;
+}
+
+.visa{
+    position: relative;
+    left: 1050px;
+    bottom: 160px;
+}
+
+.mult{
+    position: relative;
+    left: 1100px;
+    bottom: 170px;
+}
